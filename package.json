@@ -1,0 +1,23 @@
+{
+  "name": "pino-google-cloud-format-transport",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Lees-Miller",
+  "license": "MIT",
+  "dependencies": {
+    "pino-abstract-transport": "^1.1.0"
+  },
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.50.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.28.1",
+    "eslint-plugin-n": "^16.1.0",
+    "eslint-plugin-promise": "^6.1.1"
+  }
+}
